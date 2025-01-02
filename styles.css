@@ -1,0 +1,19 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+.calc{
+  background-color: #484848;
+  margin: 40px;
+  border-radius: 20px;
+}
+.number{
+  
+}
